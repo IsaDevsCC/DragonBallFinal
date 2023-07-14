@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DragonBallFinal</string>
     <string name="recuerdame">Recuerdame</string>
+    <string name="title">Choice your Hero</string>
 </resources>
